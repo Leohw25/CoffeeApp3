@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coffee App 01</string>
+    <string name="name_hint">ENTER YOUR NAME</string>
+    <string name="topping">TOPPINGS</string>
+    <string name="whipped">WHIPPED CREAM</string>
+    <string name="choc">CHOCOLATE</string>
+    <string name="orderDetails_key">Your Order Details</string>
+    <string name="emailOrder">EMAIL ORDER</string>
+    <string name="savedata">SAVE DATA</string>
+    <string name="salesReport">SALES REPORT</string>
+    <string name="salesHeader">SALES REPORT</string>
+    <string name="reorderButton">RE-ORDER</string>
+</resources>
